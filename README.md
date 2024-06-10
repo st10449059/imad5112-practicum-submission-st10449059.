@@ -27,9 +27,14 @@ Screen 3
 
 
 
+# Refrences 
+To ensure clarity and proficiency in fulfilling the assignment requirements, I diligently referred to the provided manual, utilizing it as a comprehensive guide to understand the task at hand and effectively program the desired functionalities. Additionally, I leveraged various online resources and links to gather detailed information about the famous figures required for the application. These resources proved invaluable in acquiring comprehensive insights into the lives, achievements, and backgrounds of the historical figures, enabling me to provide users with accurate and engaging content. By combining the guidance from the manual with the wealth of information obtained from online sources, I was able to program the application with confidence, ensuring that it meets the intended objectives and delivers a captivating user experience.
 
+The independent institute of Education (2024)
 
+https://www.w3schools.io/file/github-readme-image/
 
+https://stackoverflow.com/questions/27015895/how-to-link-two-xml-pages-in-android-app-when-a-button-is-clicked
 
 
 
