@@ -11,8 +11,6 @@ My application consist of 3 main pages. The first page is presented with a brigh
 # Utilisation of github and github actions 
 To make sure my code works on more platforms than just my local machine, I'll be using GitHub Actions to expedite the testing process. Through the use of GitHub Actions, I want to confirm that the program runs without a hitch on my PC as well as a variety of other computers, including mobile devices. Furthermore, GitHub is a great resource for preserving the application's dependability and guaranteeing a positive user experience. It fosters continuous improvement by offering a collaborative area where problems can be recorded, defects can be reported, and upgrades can be offered. Furthermore, GitHub will be essential in providing thorough reports that outline the application's goals and features. These reports will elucidate the application's objectives, features, and implementation procedures, thereby facilitating a comprehensive understanding for both developers and end-users alike. Through GitHub's robust capabilities, I aim to enhance the reliability, usability, and transparency of the application, ultimately enriching the overall development and user experience. 
 
-# Flowchart/pseudocode 
-
 
 # Screenshots of screens 
 
